@@ -3,7 +3,7 @@
 ## Links
 - [Lorem Ipsum](https://thriving-croquembouche-5e0c23.netlify.app)
 - [MarkDown TOC](https://dazzling-peony-88b24c.netlify.app)
-- [CSV bulk creator](https://https://tiny-dusk-5f7b1d.netlify.app)
+- [CSV bulk creator](https://tiny-dusk-5f7b1d.netlify.app)
 <!--
 - [](https://.netlify.app)
 - [](https://.netlify.app)
