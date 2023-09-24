@@ -1,6 +1,9 @@
 # Welcome! 👋
 
-## Links
+## Contact
+- [Chatzy](https://www.chatzy.com/34549377663409)
+
+## Projects
 - [Timelogger](https://funny-mooncake-1d3837.netlify.app/)
 - [Lorem Ipsum](https://thriving-croquembouche-5e0c23.netlify.app)
 - [MarkDown TOC](https://dazzling-peony-88b24c.netlify.app)
