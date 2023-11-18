@@ -1,7 +1,7 @@
 # Welcome! 👋
 
 ## Contact
-- [Chatzy chat room](https://www.chatzy.com/34549377663409)
+- 
 
 ## Projects
 - [Timelogger](https://funny-mooncake-1d3837.netlify.app/)
