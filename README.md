@@ -1,3 +1,4 @@
+# GitHub Stats
 <table>
   <tr>
     <td>
@@ -33,3 +34,17 @@
 </td>
   </tr>
 </table>
+
+# Repo Plans
+|TO-START|TO-UPDATE|TO-DELETE|
+|-|-|-|
+|ccat-solutions|full-stack-projects|ofppt|
+|conjizon|cloned-web-designs|i-want-list|
+|tcup|doropomo|projecteuler-solutions|
+|bananapedia||cf-solutions|
+|zam|||
+|ta-da|||
+|eyesee|||
+|iwanto|||
+|konshess|||
+|basal|||
