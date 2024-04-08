@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-# Repo Plans
+# TOs
 |TO-START|TO-UPDATE|TO-DELETE|
 |-|-|-|
 |ccat-solutions|full-stack-projects|ofppt|
