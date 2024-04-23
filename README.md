@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>skill</td>
-    <td>redemand</td>
+    <td>demands</td>
   </tr>
     <tr>
         <td>
