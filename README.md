@@ -251,7 +251,9 @@ Adobe InDesign
 
 # Top 30 Highest Paying UpWork Skillsets
 ## From the most recent 1000 job requests on 2024-04-26
+
 <hr>
+
 **20k** $ (2 jobs):
 - Web Application, Web Development, Web Design, iOS, Android, PHP, Shopify, WooCommerce, JavaScript, Java
 <hr>
